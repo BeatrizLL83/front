@@ -1,4 +1,4 @@
-import { socials } from "../../data/socials";
+import { socials } from "../../../data/socials";
 import './footer.css'
 
 export const footer = () => {
